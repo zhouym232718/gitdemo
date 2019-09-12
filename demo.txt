@@ -1,5 +1,0 @@
-add datas
-hello
-hello boy!
-hello girl!
-hello hello and girl!
